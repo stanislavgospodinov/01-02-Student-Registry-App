@@ -8,6 +8,8 @@ function setup(app, students) {
     res.render('home', model);
   });
   
+  //ok
+
   app.get('/loaderio-97355a48d08652424ffe033c5cf3d460.txt', function(req, res) {
     res.send('loaderio-97355a48d08652424ffe033c5cf3d460');
   });
